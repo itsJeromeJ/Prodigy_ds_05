@@ -22,7 +22,7 @@ The analysis process consists of the following steps:
 ### 3. Data Visualization
 - **Bar Charts**: Showing the number of accidents by location, road conditions, weather conditions, and time of day.
 - **Heatmaps**: Analyzing correlations between different factors.
-- **Maps**: Visualizing accident locations on a map to identify hotspots using Folium.
+
 
 ## Key Findings
 
